@@ -22,8 +22,10 @@ The project includes an admin panel that allows the administrator to:
 
 ### 🛠 Admin Panel
 
-![Admin](screenshots/admin.jpg)
+![Admin](screenshots/admin.png)
 
 ### 🔐 Login Page
 
-![Login](screenshots/login.jpg)
+![Login](screenshots/login.png)
+
+
